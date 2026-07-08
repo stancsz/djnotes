@@ -1,0 +1,39 @@
+- number: 1
+  slug: 01-setup
+  title: 开箱与设置
+- number: 2
+  slug: 02-controls
+  title: 认识控制器
+- number: 3
+  slug: 03-gain-eq-filter
+  title: Gain / EQ / Filter
+- number: 4
+  slug: 04-headphone-monitoring
+  title: 耳机监听与选歌
+- number: 5
+  slug: 05-beatmatching
+  title: 手动对拍
+- number: 6
+  slug: 06-phrasing
+  title: Phrasing 乐句结构
+- number: 7
+  slug: 07-basic-transitions
+  title: 基础混音过渡
+- number: 8
+  slug: 08-loops-hotcues
+  title: Loop 与 Hot Cue
+- number: 9
+  slug: 09-beatfx-smartcfx
+  title: Beat FX / Smart CFX / Smart Fader
+- number: 10
+  slug: 10-advanced-transitions
+  title: 进阶 Transition 套路
+- number: 11
+  slug: 11-harmonic-mixing
+  title: 调性混音
+- number: 12
+  slug: 12-livestream
+  title: 直播设置
+- number: 13
+  slug: 13-practice-plan
+  title: 练习计划与自我检验

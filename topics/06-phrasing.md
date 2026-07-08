@@ -1,10 +1,9 @@
 ---
 title: 第 6 课 · Phrasing 乐句结构
+slug: 06-phrasing
 ---
 
-[← 上一课](05-beatmatching.md) ｜ 第 6 课 / 共 13 课 ｜ [下一课 →](07-basic-transitions.md)
-
-# 第 6 课 · Phrasing 乐句结构
+# Phrasing 乐句结构
 
 ## 什么是 phrasing
 
@@ -30,6 +29,3 @@ title: 第 6 课 · Phrasing 乐句结构
 
 - Club Ready — *DJ Phrasing and Pro Level Looping*：https://www.youtube.com/watch?v=m2zewzOfnu8
 - *DJ Transitions Masterclass – Master Phrasing, EQ & Filters*：https://www.youtube.com/watch?v=Fd9jEpFG6II
-
----
-[← 上一课：手动对拍](05-beatmatching.md) ｜ [下一课：基础混音过渡 →](07-basic-transitions.md)

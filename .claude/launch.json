@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll",
+      "runtimeExecutable": "docker",
+      "runtimeArgs": [
+        "run", "--rm",
+        "-v", "C:\\Users\\stanc\\github\\djnotes:/srv/jekyll",
+        "-p", "4000:4000",
+        "jekyll/jekyll:stable",
+        "sh", "-c", "gem install webrick --no-document && jekyll serve --host 0.0.0.0 --port 4000"
+      ],
+      "port": 4000
+    }
+  ]
+}

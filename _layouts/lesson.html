@@ -1,0 +1,45 @@
+---
+layout: default
+---
+{% assign lessons = site.data.lessons %}
+{% assign current = null %}
+{% for l in lessons %}{% if l.slug == page.slug %}{% assign current = l %}{% endif %}{% endfor %}
+{% assign percent = current.number | times: 100 | divided_by: 13 %}
+
+<div class="lesson-layout">
+  <aside class="lesson-sidebar">
+    <div class="progress-fader">
+      <div class="fader-track">
+        <div class="fader-fill" style="--progress: {{ percent }}%;"></div>
+      </div>
+      <span class="progress-label">{{ current.number }}/13</span>
+    </div>
+    <ol class="sidebar-list">
+      {% for l in lessons %}
+      <li{% if l.slug == page.slug %} class="active"{% endif %}>
+        <a href="{{ '/topics/' | append: l.slug | append: '/' | relative_url }}">
+          <span class="num">{{ l.number }}</span>{{ l.title }}
+        </a>
+      </li>
+      {% endfor %}
+    </ol>
+  </aside>
+
+  <article class="lesson-content">
+    <p class="lesson-kicker">第 {{ current.number }} 课 / 共 13 课</p>
+    {{ content }}
+
+    <nav class="lesson-pager">
+      {% if current.number > 1 %}
+        {% assign prev_index = current.number | minus: 2 %}
+        {% assign prev = lessons[prev_index] %}
+        <a class="pager-prev" href="{{ '/topics/' | append: prev.slug | append: '/' | relative_url }}">← {{ prev.title }}</a>
+      {% endif %}
+      {% if current.number < 13 %}
+        {% assign next_index = current.number %}
+        {% assign next = lessons[next_index] %}
+        <a class="pager-next" href="{{ '/topics/' | append: next.slug | append: '/' | relative_url }}">{{ next.title }} →</a>
+      {% endif %}
+    </nav>
+  </article>
+</div>

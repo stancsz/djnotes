@@ -1,10 +1,9 @@
 ---
 title: 第 9 课 · Beat FX / Smart CFX / Smart Fader
+slug: 09-beatfx-smartcfx
 ---
 
-[← 上一课](08-loops-hotcues.md) ｜ 第 9 课 / 共 13 课 ｜ [下一课 →](10-advanced-transitions.md)
-
-# 第 9 课 · Beat FX / Smart CFX / Smart Fader
+# Beat FX / Smart CFX / Smart Fader
 
 ## Beat FX
 
@@ -32,6 +31,3 @@ FLX4 的特色功能：一个旋钮里塞了好几种效果组合，转动时自
 
 - Pioneer 官方 — *DDJ-FLX4 TUTORIAL - SMART FADER*：https://www.youtube.com/watch?v=OWdeI-OiTIc
 - 补充练习：在 DJ Blakey 或 Crossfader 频道内搜索 "FLX4 Smart Fader"，看跨流派、跨 BPM 过渡的实战演示。
-
----
-[← 上一课：Loop 与 Hot Cue](08-loops-hotcues.md) ｜ [下一课：进阶 Transition 套路 →](10-advanced-transitions.md)

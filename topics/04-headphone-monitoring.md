@@ -1,10 +1,9 @@
 ---
 title: 第 4 课 · 耳机监听与选歌
+slug: 04-headphone-monitoring
 ---
 
-[← 上一课](03-gain-eq-filter.md) ｜ 第 4 课 / 共 13 课 ｜ [下一课 →](05-beatmatching.md)
-
-# 第 4 课 · 耳机监听与选歌
+# 耳机监听与选歌
 
 在观众听到之前，DJ 永远先在耳机里"偷听"下一首歌，找准要混入的位置。这一课练的是这个动作。
 
@@ -27,6 +26,3 @@ title: 第 4 课 · 耳机监听与选歌
 ## 🎥 练习视频
 
 DJ Blakey — *Learn to DJ in 2026 (Complete Beginner's Guide)*，里面包含耳机监听、CUE 混合这部分的实拍演示：https://www.youtube.com/watch?v=EZ0jy_pkud0
-
----
-[← 上一课：Gain / EQ / Filter](03-gain-eq-filter.md) ｜ [下一课：手动对拍 →](05-beatmatching.md)

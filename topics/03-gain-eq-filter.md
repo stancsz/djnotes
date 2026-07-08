@@ -1,10 +1,9 @@
 ---
 title: 第 3 课 · Gain / EQ / Filter
+slug: 03-gain-eq-filter
 ---
 
-[← 上一课](02-controls.md) ｜ 第 3 课 / 共 13 课 ｜ [下一课 →](04-headphone-monitoring.md)
-
-# 第 3 课 · Gain / EQ / Filter
+# Gain / EQ / Filter
 
 这三个旋钮是"让两首歌听起来干净地叠在一起"的核心工具，后面所有过渡技巧都建立在这一课上。
 
@@ -36,6 +35,3 @@ title: 第 3 课 · Gain / EQ / Filter
 ## 🎥 练习视频
 
 Pioneer 官方 Tutorials playlist 里有专门讲 EQ / Filter 的分集，在播放列表里找 "EQ" "Filter" 相关标题：https://www.youtube.com/playlist?list=PLk1VCXHnvPLCF5ua8TO8SepMlCWsdLsNm
-
----
-[← 上一课：认识控制器](02-controls.md) ｜ [下一课：耳机监听与选歌 →](04-headphone-monitoring.md)

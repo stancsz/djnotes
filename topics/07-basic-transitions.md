@@ -1,10 +1,9 @@
 ---
 title: 第 7 课 · 基础混音过渡（EQ Mixing）
+slug: 07-basic-transitions
 ---
 
-[← 上一课](06-phrasing.md) ｜ 第 7 课 / 共 13 课 ｜ [下一课 →](08-loops-hotcues.md)
-
-# 第 7 课 · 基础混音过渡（EQ Mixing）
+# 基础混音过渡（EQ Mixing）
 
 这一课把前面三课——手动对拍、Phrasing、EQ——拼成一次完整、干净的过渡。这是最基础也最耐用的一种混音手法，练熟了，后面所有花活都是在它上面加东西。
 
@@ -31,6 +30,3 @@ title: 第 7 课 · 基础混音过渡（EQ Mixing）
 
 - Crossfader — *DJ Mixing Techniques For Complete Beginners - Pioneer DDJ-FLX4*：https://www.youtube.com/watch?v=SR1xPdJs1k4
 - *DJ Transitions Masterclass – Master Phrasing, EQ & Filters*（和第 6 课同一条，这一课重点看 EQ/Filter 部分）：https://www.youtube.com/watch?v=Fd9jEpFG6II
-
----
-[← 上一课：Phrasing 乐句结构](06-phrasing.md) ｜ [下一课：Loop 与 Hot Cue →](08-loops-hotcues.md)

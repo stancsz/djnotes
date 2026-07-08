@@ -1,10 +1,9 @@
 ---
 title: 第 10 课 · 进阶 Transition 套路
+slug: 10-advanced-transitions
 ---
 
-[← 上一课](09-beatfx-smartcfx.md) ｜ 第 10 课 / 共 13 课 ｜ [下一课 →](11-harmonic-mixing.md)
-
-# 第 10 课 · 进阶 Transition 套路
+# 进阶 Transition 套路
 
 在第 7 课的基础 EQ 过渡之上，堆叠更多"招式"，让过渡更有记忆点。这些套路都建立在前面几课的基本功之上——如果对拍、phrasing、EQ 交接还不稳，先回去补。
 
@@ -23,6 +22,3 @@ title: 第 10 课 · 进阶 Transition 套路
 ## 🎥 练习视频
 
 Crossfader — *12 High-Energy DJ Transitions*，在 Crossfader 频道内搜索同名视频，大部分演示直接用 FLX4 + Rekordbox 完成，包含 EQ 换 bass、Smart CFX vaporize、hot cue 卡 vocal、slip mode 等具体套路，每个都有分步骤讲解。
-
----
-[← 上一课：Beat FX / Smart CFX / Smart Fader](09-beatfx-smartcfx.md) ｜ [下一课：调性混音 →](11-harmonic-mixing.md)

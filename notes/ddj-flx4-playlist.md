@@ -2,8 +2,6 @@
 title: DDJ-FLX4 小白到精通 · Curated Playlist
 ---
 
-[← 返回首页](../index.md)
-
 # 🎛️ DDJ-FLX4 小白到精通 · Curated Playlist
 
 全部围绕 DDJ-FLX4 重排。这台机器就是为这条学习路径设计的——它继承了 Pioneer 专业俱乐部设备的布局，所以在它上面练的肌肉记忆能直接迁移到 CDJ。清单按顺序加进 playlist 即可。

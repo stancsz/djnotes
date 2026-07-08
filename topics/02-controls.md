@@ -1,10 +1,9 @@
 ---
 title: 第 2 课 · 认识控制器
+slug: 02-controls
 ---
 
-[← 上一课](01-setup.md) ｜ 第 2 课 / 共 13 课 ｜ [下一课 →](03-gain-eq-filter.md)
-
-# 第 2 课 · 认识控制器
+# 认识控制器
 
 ## 目标
 
@@ -40,6 +39,3 @@ title: 第 2 课 · 认识控制器
 
 - Off The Rack Jack — *How To Use EVERYTHING On Your DJ Equipment (FLX4)*（带时间戳章节，逐个功能过一遍，最系统）：https://www.youtube.com/watch?v=kZKBeztMbZY
 - Pioneer DJ 官方 — DDJ-FLX4 Tutorials 整套 playlist（官方最权威，几分钟一个功能点）：https://www.youtube.com/playlist?list=PLk1VCXHnvPLCF5ua8TO8SepMlCWsdLsNm
-
----
-[← 上一课：开箱与设置](01-setup.md) ｜ [下一课：Gain / EQ / Filter →](03-gain-eq-filter.md)

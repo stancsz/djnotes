@@ -1,10 +1,9 @@
 ---
 title: 第 8 课 · Loop 与 Hot Cue
+slug: 08-loops-hotcues
 ---
 
-[← 上一课](07-basic-transitions.md) ｜ 第 8 课 / 共 13 课 ｜ [下一课 →](09-beatfx-smartcfx.md)
-
-# 第 8 课 · Loop 与 Hot Cue
+# Loop 与 Hot Cue
 
 ## Loop
 
@@ -31,6 +30,3 @@ title: 第 8 课 · Loop 与 Hot Cue
 ## 🎥 练习视频
 
 Club Ready — *DJ Phrasing and Pro Level Looping*（Loop 本来就是为 phrasing 服务的，和第 6 课共用一条视频）：https://www.youtube.com/watch?v=m2zewzOfnu8
-
----
-[← 上一课：基础混音过渡](07-basic-transitions.md) ｜ [下一课：Beat FX / Smart CFX / Smart Fader →](09-beatfx-smartcfx.md)

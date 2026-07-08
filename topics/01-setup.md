@@ -1,10 +1,9 @@
 ---
 title: 第 1 课 · 开箱与设置
+slug: 01-setup
 ---
 
-[← 返回目录](../index.md) ｜ 第 1 课 / 共 13 课 ｜ [下一课 →](02-controls.md)
-
-# 第 1 课 · 开箱与设置
+# 开箱与设置
 
 ## 目标
 
@@ -39,6 +38,3 @@ title: 第 1 课 · 开箱与设置
 
 - Bop DJ — *Learn to DJ in under 5 mins with the DDJ-FLX4*（五分钟建立信心）：https://www.youtube.com/watch?v=oMQEeXteXWc
 - Crossfader — *Getting Started With The DDJ FLX4*（完整 setup + Rekordbox 音频设置最全）：https://www.youtube.com/watch?v=fa3sLTn0Wek
-
----
-[← 返回目录](../index.md) ｜ [下一课：认识控制器 →](02-controls.md)

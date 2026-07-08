@@ -1,17 +1,16 @@
 ---
 title: 第 13 课 · 练习计划与自我检验
+slug: 13-practice-plan
 ---
 
-[← 上一课](12-livestream.md) ｜ 第 13 课 / 共 13 课
-
-# 第 13 课 · 练习计划与自我检验
+# 练习计划与自我检验
 
 ## 一周节奏建议
 
-- **Day 1**：[第 1 课 开箱与设置](01-setup.md) + [第 2 课 认识控制器](02-controls.md)
-- **Day 2**：[第 3 课 Gain/EQ/Filter](03-gain-eq-filter.md) + [第 4 课 耳机监听与选歌](04-headphone-monitoring.md)
-- **Day 3-6**：[第 5 课 手动对拍](05-beatmatching.md) 每天专项练习 15-20 分钟，不要跳过这一步。同步进行 [第 6 课 Phrasing](06-phrasing.md)——数小节可以随时练，不需要占用整块时间。
-- **Day 7 起**：[第 7 课 基础混音过渡](07-basic-transitions.md)，开始把前面的技能拼起来。
+- **Day 1**：[第 1 课 开箱与设置]({{ '/topics/01-setup/' | relative_url }}) + [第 2 课 认识控制器]({{ '/topics/02-controls/' | relative_url }})
+- **Day 2**：[第 3 课 Gain/EQ/Filter]({{ '/topics/03-gain-eq-filter/' | relative_url }}) + [第 4 课 耳机监听与选歌]({{ '/topics/04-headphone-monitoring/' | relative_url }})
+- **Day 3-6**：[第 5 课 手动对拍]({{ '/topics/05-beatmatching/' | relative_url }}) 每天专项练习 15-20 分钟，不要跳过这一步。同步进行 [第 6 课 Phrasing]({{ '/topics/06-phrasing/' | relative_url }})——数小节可以随时练，不需要占用整块时间。
+- **Day 7 起**：[第 7 课 基础混音过渡]({{ '/topics/07-basic-transitions/' | relative_url }})，开始把前面的技能拼起来。
 - 之后按自己节奏推进第 8-12 课。
 
 核心原则：Stage 0-2（第 1-4 课）一周内过完，然后大部分练习时间都放在手动对拍和 phrasing 上——这是唯一没有捷径的部分。Smart Fader 留给直播时救场用，不要变成日常拐杖。
@@ -38,6 +37,3 @@ title: 第 13 课 · 练习计划与自我检验
 - **Crossfader** — FLX4 内容最多的教学频道
 - **Club Ready** — 真功夫（beatmatching、phrasing）
 - **DJ Carlo** — Rekordbox 设置的 go-to 参考
-
----
-[← 上一课：直播设置](12-livestream.md) ｜ [返回目录](../index.md)

@@ -1,10 +1,9 @@
 ---
 title: 第 5 课 · 手动对拍（Beatmatching）
+slug: 05-beatmatching
 ---
 
-[← 上一课](04-headphone-monitoring.md) ｜ 第 5 课 / 共 13 课 ｜ [下一课 →](06-phrasing.md)
-
-# 第 5 课 · 手动对拍（Beatmatching）
+# 手动对拍（Beatmatching）
 
 这是整套教程里唯一没有捷径的一课，也是最重要的一课。花在这里的时间不会浪费。
 
@@ -40,6 +39,3 @@ Sync 会自动帮你对齐 BPM 和节拍，短期省事，但你不会真正理�
 ## 🎥 练习视频
 
 Club Ready — *Learn to DJ the Real Way: Beat Matching, Phrasing & Mixing Without Visuals*：https://www.youtube.com/watch?v=8_erWzDmlj4
-
----
-[← 上一课：耳机监听与选歌](04-headphone-monitoring.md) ｜ [下一课：Phrasing 乐句结构 →](06-phrasing.md)

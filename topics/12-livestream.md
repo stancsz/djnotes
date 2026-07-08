@@ -1,10 +1,9 @@
 ---
 title: 第 12 课 · 直播设置
+slug: 12-livestream
 ---
 
-[← 上一课](11-harmonic-mixing.md) ｜ 第 12 课 / 共 13 课 ｜ [下一课 →](13-practice-plan.md)
-
-# 第 12 课 · 直播设置
+# 直播设置
 
 ## 场景
 
@@ -35,6 +34,3 @@ title: 第 12 课 · 直播设置
 ## 🎥 练习视频
 
 这一节官方目前没有专门针对 FLX4 的直播教学视频。建议在 DJ Blakey 或 Crossfader 频道内搜索 "FLX4 livestream setup" 或 "DJ livestreaming setup"，补充一两条实战演示。
-
----
-[← 上一课：调性混音](11-harmonic-mixing.md) ｜ [下一课：练习计划与自我检验 →](13-practice-plan.md)

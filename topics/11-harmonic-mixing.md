@@ -1,10 +1,9 @@
 ---
 title: 第 11 课 · 调性混音（Camelot Wheel）
+slug: 11-harmonic-mixing
 ---
 
-[← 上一课](10-advanced-transitions.md) ｜ 第 11 课 / 共 13 课 ｜ [下一课 →](12-livestream.md)
-
-# 第 11 课 · 调性混音（Camelot Wheel）
+# 调性混音（Camelot Wheel）
 
 ## 为什么要懂
 
@@ -29,6 +28,3 @@ rekordbox 会自动分析每首歌的 Key，并在软件界面和 FLX4 屏幕上
 ## 🎥 练习视频
 
 *How To Mix In Key: The Complete Harmonic Mixing Guide*：https://www.youtube.com/watch?v=q1eCtkmy_JM
-
----
-[← 上一课：进阶 Transition 套路](10-advanced-transitions.md) ｜ [下一课：直播设置 →](12-livestream.md)
