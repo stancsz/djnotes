@@ -1,0 +1,23 @@
+{% if include.list %}
+<figure class="video-embed">
+  <div class="video-frame">
+    <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list={{ include.list }}"
+            title="{{ include.title }}"
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+  </div>
+  <figcaption><span class="video-tag">PLAYLIST</span>{{ include.title }}{% if include.caption %} — {{ include.caption }}{% endif %}</figcaption>
+</figure>
+{% else %}
+<figure class="video-embed">
+  <div class="video-frame">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ include.id }}"
+            title="{{ include.title }}"
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+  </div>
+  <figcaption><span class="video-tag">VIDEO</span>{{ include.title }}{% if include.caption %} — {{ include.caption }}{% endif %}</figcaption>
+</figure>
+{% endif %}
