@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 340" font-family="JetBrains Mono, monospace">
+  <rect width="840" height="340" fill="#0d0d13"/>
+
+  <!-- axes -->
+  <line x1="60" y1="40" x2="60" y2="260" stroke="#3a3a46" stroke-width="1"/>
+  <line x1="60" y1="260" x2="790" y2="260" stroke="#3a3a46" stroke-width="1"/>
+  <text x="40" y="55" font-size="12" fill="#5c5964" transform="rotate(-90 40 55)" text-anchor="end">能量 →</text>
+  <text x="780" y="280" font-size="12" fill="#5c5964" text-anchor="end">时间 →</text>
+
+  <!-- energy curve: staircase with breathing dips -->
+  <path d="M60,235
+           C110,232 130,225 170,215
+           C200,208 220,200 250,192
+           C270,187 285,192 305,198
+           C325,203 345,196 375,178
+           C410,157 440,148 470,140
+           C495,133 510,140 530,148
+           C550,155 570,145 600,120
+           C630,97 660,85 690,82
+           C720,80 750,110 780,170"
+        fill="none" stroke="url(#grad)" stroke-width="3.5" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2be6c8"/>
+      <stop offset="0.6" stop-color="#ffb020"/>
+      <stop offset="0.85" stop-color="#ff2e6c"/>
+      <stop offset="1" stop-color="#948f9c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- zone shading -->
+  <g font-size="13" text-anchor="middle" font-weight="bold">
+    <text x="150" y="300" fill="#2be6c8">开场铺垫</text>
+    <text x="330" y="300" fill="#948f9c">爬升（留呼吸口）</text>
+    <text x="545" y="300" fill="#ffb020">继续爬</text>
+    <text x="675" y="300" fill="#ff2e6c">高潮段</text>
+    <text x="778" y="300" fill="#948f9c">收尾降落</text>
+  </g>
+
+  <!-- breathing dip markers -->
+  <g fill="#2be6c8">
+    <circle cx="305" cy="198" r="5" opacity="0.9"/>
+    <circle cx="530" cy="148" r="5" opacity="0.9"/>
+  </g>
+  <text x="305" y="180" font-size="11.5" fill="#2be6c8" text-anchor="middle">呼吸歌 ↓</text>
+  <text x="530" y="130" font-size="11.5" fill="#2be6c8" text-anchor="middle">呼吸歌 ↓</text>
+
+  <!-- peak marker -->
+  <circle cx="690" cy="82" r="5" fill="#ff2e6c"/>
+  <text x="690" y="64" font-size="11.5" fill="#ff2e6c" text-anchor="middle">硬货集中在这</text>
+
+  <text x="420" y="330" font-size="12" fill="#948f9c" text-anchor="middle">每 3-4 首上一个台阶；一直顶最高能量 30 分钟观众就麻了——落差才是能量</text>
+</svg>

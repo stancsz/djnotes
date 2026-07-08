@@ -9,6 +9,8 @@ slug: 07-basic-transitions
 
 ## 标准 EQ 过渡流程（16-32 小节长过渡）
 
+{% include diagram.html src="eq-transition.svg" alt="32 小节 EQ 过渡时间线：B 先进 Mid/Hi，第 16 小节低频交接，A 的 Mid/Hi 最后拉走" caption="32 小节 EQ 过渡全景：每条色带是一个频段的音量状态，琥珀竖线是低频交接的瞬间" %}
+
 1. 在 B 即将进入的乐句边界，把 B 的 Low 切到底，只让 Mid/Hi 先叠进来。
 2. 把 B 的 Channel Fader 慢慢推起，同时保持整体音量总和稳定。
 3. 到下一个乐句边界做**低频交接**：A 的 Low 切走、B 的 Low 同时补回。干净利落，不拖泥带水。

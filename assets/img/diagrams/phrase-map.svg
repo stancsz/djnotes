@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" font-family="JetBrains Mono, monospace">
+  <rect width="840" height="300" fill="#0d0d13"/>
+
+  <!-- 8-bar grid: 14 cells of 8 bars = 112 bars, cell width 55, origin x=35 -->
+  <g stroke="#26262f" stroke-width="1">
+    <line x1="35" y1="70" x2="35" y2="200"/><line x1="90" y1="70" x2="90" y2="200"/>
+    <line x1="145" y1="70" x2="145" y2="200"/><line x1="200" y1="70" x2="200" y2="200"/>
+    <line x1="255" y1="70" x2="255" y2="200"/><line x1="310" y1="70" x2="310" y2="200"/>
+    <line x1="365" y1="70" x2="365" y2="200"/><line x1="420" y1="70" x2="420" y2="200"/>
+    <line x1="475" y1="70" x2="475" y2="200"/><line x1="530" y1="70" x2="530" y2="200"/>
+    <line x1="585" y1="70" x2="585" y2="200"/><line x1="640" y1="70" x2="640" y2="200"/>
+    <line x1="695" y1="70" x2="695" y2="200"/><line x1="750" y1="70" x2="750" y2="200"/>
+    <line x1="805" y1="70" x2="805" y2="200"/>
+  </g>
+
+  <!-- structure blocks -->
+  <g font-size="14" font-weight="bold" text-anchor="middle">
+    <rect x="35" y="90" width="110" height="90" fill="#16161f" stroke="#3a3a46"/>
+    <text x="90" y="140" fill="#948f9c">INTRO</text>
+    <text x="90" y="160" fill="#5c5964" font-size="11">16 小节纯鼓</text>
+
+    <rect x="145" y="80" width="110" height="100" fill="#171722" stroke="#3a3a46"/>
+    <text x="200" y="140" fill="#f3f1ea">VERSE</text>
+    <text x="200" y="160" fill="#5c5964" font-size="11">16 小节</text>
+
+    <rect x="255" y="70" width="110" height="110" fill="#1d1a26" stroke="#3a3a46"/>
+    <text x="310" y="140" fill="#ffb020">BUILD</text>
+    <text x="310" y="160" fill="#5c5964" font-size="11">张力累积</text>
+
+    <rect x="365" y="60" width="165" height="120" fill="#2a1420" stroke="#ff2e6c"/>
+    <text x="447" y="140" fill="#ff2e6c">DROP</text>
+    <text x="447" y="160" fill="#5c5964" font-size="11">能量最高点</text>
+
+    <rect x="530" y="85" width="110" height="95" fill="#12201f" stroke="#3a3a46"/>
+    <text x="585" y="140" fill="#2be6c8">BREAK</text>
+    <text x="585" y="160" fill="#5c5964" font-size="11">呼吸口</text>
+
+    <rect x="640" y="90" width="165" height="90" fill="#16161f" stroke="#3a3a46"/>
+    <text x="722" y="140" fill="#948f9c">OUTRO</text>
+    <text x="722" y="160" fill="#5c5964" font-size="11">纯鼓 · 混出窗口</text>
+  </g>
+
+  <!-- signal flare markers at bar 7-8 of the phrase before each boundary -->
+  <g fill="#ffb020">
+    <circle cx="138" cy="62" r="4"/>
+    <circle cx="248" cy="62" r="4"/>
+    <circle cx="358" cy="62" r="4"/>
+    <circle cx="523" cy="62" r="4"/>
+    <circle cx="633" cy="62" r="4"/>
+  </g>
+  <text x="35" y="40" font-size="13" fill="#ffb020">● = 第 7-8 小节"信号弹"（鼓 fill / 镲渐强 / 抽 kick）→ 提示边界将至</text>
+
+  <!-- bar counter -->
+  <g font-size="11" fill="#5c5964" text-anchor="middle">
+    <text x="35" y="220">0</text><text x="145" y="220">16</text><text x="255" y="220">32</text>
+    <text x="365" y="220">48</text><text x="530" y="220">72</text><text x="640" y="220">88</text>
+    <text x="805" y="220">112</text>
+  </g>
+  <text x="420" y="245" font-size="12" fill="#948f9c" text-anchor="middle">每格 = 8 小节（一个 phrase）｜混音的进出点全部落在竖线上</text>
+  <text x="420" y="280" font-size="13" fill="#f3f1ea" text-anchor="middle">典型舞曲结构：INTRO → VERSE → BUILD → DROP → BREAK → OUTRO</text>
+</svg>

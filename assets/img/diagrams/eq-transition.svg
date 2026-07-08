@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 420" font-family="JetBrains Mono, monospace">
+  <rect width="840" height="420" fill="#0d0d13"/>
+
+  <!-- timeline: 32 bars, 4 phrases of 8. x from 120 to 760, 160px per phrase -->
+  <g stroke="#3a3a46" stroke-width="1" stroke-dasharray="4 4">
+    <line x1="120" y1="55" x2="120" y2="330"/>
+    <line x1="280" y1="55" x2="280" y2="330"/>
+    <line x1="440" y1="55" x2="440" y2="330"/>
+    <line x1="600" y1="55" x2="600" y2="330"/>
+    <line x1="760" y1="55" x2="760" y2="330"/>
+  </g>
+  <g font-size="12" fill="#5c5964" text-anchor="middle">
+    <text x="120" y="46">小节 0</text><text x="280" y="46">8</text>
+    <text x="440" y="46">16</text><text x="600" y="46">24</text><text x="760" y="46">32</text>
+  </g>
+
+  <!-- Track A rows -->
+  <text x="30" y="90" font-size="14" font-weight="bold" fill="#ff2e6c">A 出</text>
+  <g font-size="11" fill="#948f9c">
+    <text x="60" y="115">HI</text><text x="60" y="145">MID</text><text x="60" y="175">LOW</text>
+  </g>
+  <!-- A HI: full till 24 then ramp out -->
+  <rect x="120" y="103" width="480" height="14" fill="#ff2e6c" opacity="0.8"/>
+  <path d="M600,103 L760,110 L760,117 L600,117 Z" fill="#ff2e6c" opacity="0.35"/>
+  <!-- A MID: full till 24 then ramp out -->
+  <rect x="120" y="133" width="480" height="14" fill="#ff2e6c" opacity="0.8"/>
+  <path d="M600,133 L760,140 L760,147 L600,147 Z" fill="#ff2e6c" opacity="0.35"/>
+  <!-- A LOW: full till 16 then hard cut -->
+  <rect x="120" y="163" width="320" height="14" fill="#ff2e6c" opacity="0.8"/>
+
+  <!-- Track B rows -->
+  <text x="30" y="235" font-size="14" font-weight="bold" fill="#2be6c8">B 进</text>
+  <g font-size="11" fill="#948f9c">
+    <text x="60" y="260">HI</text><text x="60" y="290">MID</text><text x="60" y="320">LOW</text>
+  </g>
+  <!-- B HI: ramp in 0-8 then full -->
+  <path d="M120,262 L280,255 L280,248 L120,255 Z" fill="#2be6c8" opacity="0.35"/>
+  <rect x="280" y="248" width="480" height="14" fill="#2be6c8" opacity="0.8"/>
+  <!-- B MID: ramp in 0-8 then full -->
+  <path d="M120,292 L280,285 L280,278 L120,285 Z" fill="#2be6c8" opacity="0.35"/>
+  <rect x="280" y="278" width="480" height="14" fill="#2be6c8" opacity="0.8"/>
+  <!-- B LOW: silent till 16, then full -->
+  <rect x="440" y="308" width="320" height="14" fill="#2be6c8" opacity="0.8"/>
+
+  <!-- bass swap highlight at bar 16 -->
+  <rect x="432" y="155" width="16" height="175" fill="#ffb020" opacity="0.18"/>
+  <line x1="440" y1="155" x2="440" y2="330" stroke="#ffb020" stroke-width="2"/>
+  <text x="440" y="355" font-size="13" fill="#ffb020" text-anchor="middle" font-weight="bold">低频交接：掐 downbeat 一秒完成</text>
+
+  <!-- phase captions -->
+  <g font-size="11.5" fill="#948f9c" text-anchor="middle">
+    <text x="200" y="385">B 只进 Mid/Hi（Low 切死）</text>
+    <text x="520" y="385">两首歌并行，低频归 B</text>
+    <text x="700" y="405">A 的 Mid/Hi 拉走 → 完成</text>
+  </g>
+</svg>

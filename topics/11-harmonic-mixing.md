@@ -19,6 +19,8 @@ slug: 11-harmonic-mixing
 
 rekordbox 自动分析 Key 并显示在软件和 FLX4 屏幕上；选歌时按 Key 排序，或用 Related Tracks 找同调推荐。
 
+{% include diagram.html src="camelot-wheel.svg" alt="Camelot 轮：24 格调性轮盘，内圈小调外圈大调，标注了从 8A 出发的安全走法和 +2 能量跳" caption="Camelot 轮全图——青色格是从 8A (Am) 出发的安全走法（7A / 9A / 8B），琥珀格 10A 是 +2 Energy Boost" %}
+
 <div class="protip" markdown="1">
 
 - **Energy Boost：+2 是藏在轮盘里的"升档键"。** 跳两格（8A → 10A）等于整体升一个全音，能量瞬间抬升，副歌感扑面而来。适合 set 需要"往上顶一层"的时刻。反向 -2 则是降温收场的暗招。规则内的 ±1/同号是"安全"，+2 是"起飞"——记住这个手感差别。

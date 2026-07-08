@@ -7,6 +7,8 @@ slug: 03-gain-eq-filter
 
 这三个旋钮是"让两首歌听起来干净地叠在一起"的核心工具，后面所有过渡技巧都建立在这一课上。这一课也是新手和老手声音差距最大的地方——同样的两首歌，老师傅混出来"干净、有力、不吵"，差别几乎全在电平和 EQ 纪律上。
 
+{% include figure.html src="eq-section.png" alt="FLX4 Mixer 中列特写：TRIM、HI/MID/LOW 三段 EQ、电平表、CFX Filter" page="25" caption="本课的战场：顶部 TRIM → 三段 EQ（HI/MID/LOW）→ 中间电平表(5) → 底部 CFX Filter(8)，信号自上而下流过" %}
+
 ## Gain / Trim
 
 作用：在歌曲进入 Channel Fader 之前，把不同录音响度的歌拉到一致电平，避免爆音或忽大忽小。

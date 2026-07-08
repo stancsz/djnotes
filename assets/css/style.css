@@ -624,6 +624,21 @@ main {
   vertical-align: 1px;
 }
 
+/* self-drawn diagrams are dark-native: no invert */
+.diagram-figure .manual-figure-frame img {
+  filter: none;
+  opacity: 1;
+}
+
+.diagram-figure .manual-figure-frame {
+  padding: 6px;
+}
+
+.diagram-tag {
+  color: var(--cyan);
+  border-color: rgba(43, 230, 200, 0.45);
+}
+
 /* ==========================================================================
    老师傅干货 (pro-tip) callout
    ========================================================================== */

@@ -23,6 +23,8 @@ Sync 自动对齐 BPM 和节拍，短期省事，但你不会理解节奏是怎�
 4. 在 A 的乐句边界按下 B 的 PLAY（跟着数拍进）。
 5. **听两个底鼓的关系**，微调直到完全重合并保持住。
 
+{% include figure.html src="jog-tempo.png" alt="FLX4 Jog Wheel 与 Tempo Fader 特写" page="15" caption="本课的两件武器：Jog Wheel（外圈调相位，顶面急停）和右下角的 Tempo Fader(7)（调速度）" %}
+
 ## 关键：先诊断，再动手
 
 新手最大的问题是"听出不对了，但不知道该调哪个"。记住这个诊断表：
