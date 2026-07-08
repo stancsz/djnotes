@@ -7,6 +7,8 @@ slug: 04-headphone-monitoring
 
 在观众听到之前，DJ 永远先在耳机里"偷听"下一首歌，找准要混入的位置。这一课练的是这个动作——它看起来简单，但"一只耳朵听现场、一只耳朵听未来"是 DJ 独有的分脑技能，需要刻意练习。
 
+{% include figure.html src="front-panel.png" alt="DDJ-FLX4 前面板耳机接口位置" page="36" caption="耳机口在前面板正中（3.5mm，需 32Ω 以上阻抗的耳机——低于 32Ω 无法驱动）" %}
+
 ## 核心控件
 
 - **CUE 按钮**（每 Channel 一个）：按下后耳机能听到该路声音，与 Channel Fader 无关，观众完全听不到（pre-fader 监听）。

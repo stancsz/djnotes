@@ -21,6 +21,8 @@ FLX4 特色：开启后 Crossfader 划过中间区域时自动做 filter + 音�
 
 先把 Smart Fader / Smart CFX 当"参考答案"：开着划一遍，仔细听好的过渡曲线长什么样，然后**关掉，用手动 EQ + Filter + Crossfader 复现**。长期依赖，换到没有这功能的设备（CDJ + DJM）就露馅。它是直播救场工具，不是日常主力。
 
+细节备查：[手册]({{ '/assets/pioneer-dj-ddj-flx4-user-manual.pdf' | relative_url }}) P.68-74——Beat FX 每种效果的参数、Smart CFX 全部预设列表、Smart Fader 两种 Preset（SHIFT+按键切换 Preset 2）都在这一章。
+
 <div class="protip" markdown="1">
 
 - **效果器的第一法则：less is more。** 观众对 FX 的耐受度远比你想象的低。老师傅一整晚可能只用三五次 echo——每次都在关键节点，所以每次都有效。每个过渡都挂效果 = 每个过渡都没效果。

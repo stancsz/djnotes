@@ -21,6 +21,8 @@ slug: 02-controls
 
 ## 面板速览（从上到下、从左到右）
 
+{% include figure.html src="top-panel.png" alt="DDJ-FLX4 顶面板分区图" page="11" caption="顶面板四大分区：1 Browse 选歌区 · 2 左右 Deck 区 · 3 Mixer 混音区 · 4 Effects 效果区" %}
+
 - **顶部**：Browse 旋钮（选歌、翻文件夹，按下=确认）、Load 按钮（把选中的歌载入对应 Deck）
 - **每个 Channel（左右各一条）**：
   - Trim/Gain 旋钮（进台面前先调好电平）
@@ -38,6 +40,10 @@ slug: 02-controls
   - Play/Cue 按钮
   - Sync 按钮（先不用，第 5 课讲为什么）
   - Loop In / Loop Out / Reloop
+
+{% include figure.html src="deck.png" alt="DDJ-FLX4 Deck 区控件编号图" page="15" caption="Deck 区：1-2 Loop In/Out · 3 4拍Loop · 6 Beat Sync · 7 Tempo Fader · 8-11 Pad 模式键 · 12 Performance Pads · 13 Play · 14 Cue · 16 Jog Wheel（对应手册 P.15-24 逐项说明）" %}
+
+{% include figure.html src="mixer.png" alt="DDJ-FLX4 Mixer 区控件编号图" page="25" caption="Mixer 区：1 TRIM · 2 Master Level · 3 Master CUE · 5 电平表 · 6 三段 EQ · 8 CFX/Filter · 9 Smart CFX · 10 CUE · 11 耳机 MIX · 12 耳机音量 · 13 Smart Fader · 14 Channel Fader · 15 Crossfader（手册 P.25-33）" %}
 - **Performance Pads**：每 Deck 8 个，模式：Hot Cue / Pad FX / Beat Jump / Beat Loop / Sampler / Keyboard
 - **麦克风与耳机**：Mic 输入 + Mic Level（前面板），耳机口 + Headphone Mix/Level
 
@@ -53,6 +59,8 @@ slug: 02-controls
 ## 练习作业
 
 不看任何资料，口述 FLX4 面板上每一个旋钮和按钮的作用 + 它在信号链的哪个位置。说不出来的记下来查清楚，直到全部说对。然后做 10 次盲打练习：闭眼准确摸到指定控件。
+
+查证工具：[官方用户手册（PDF，165 页）]({{ '/assets/pioneer-dj-ddj-flx4-user-manual.pdf' | relative_url }})——"Part names and functions" 章节（P.10-36）对每个控件有逐项说明，含 SHIFT 组合键的隐藏功能。
 
 ## 🎥 练习视频
 

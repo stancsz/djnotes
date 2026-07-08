@@ -580,6 +580,51 @@ main {
 }
 
 /* ==========================================================================
+   Manual figures (diagrams cropped from the official user manual)
+   ========================================================================== */
+
+.manual-figure {
+  margin: 1.8em 0 2.2em;
+}
+
+.manual-figure-frame {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: #101018;
+  padding: 18px;
+}
+
+.manual-figure-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+  /* soft-invert the white manual pages into the dark theme;
+     hue-rotate keeps the red callout lines readable (turn cyan) */
+  filter: invert(0.92) hue-rotate(180deg);
+  opacity: 0.95;
+}
+
+.manual-figure figcaption {
+  margin-top: 10px;
+  font-size: 12.5px;
+  color: var(--fg-faint);
+  line-height: 1.5;
+}
+
+.figure-tag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  color: var(--amber);
+  border: 1px solid rgba(255, 176, 32, 0.45);
+  border-radius: 2px;
+  padding: 1px 6px;
+  margin-right: 10px;
+  vertical-align: 1px;
+}
+
+/* ==========================================================================
    老师傅干货 (pro-tip) callout
    ========================================================================== */
 

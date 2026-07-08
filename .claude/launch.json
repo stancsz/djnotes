@@ -3,13 +3,10 @@
   "configurations": [
     {
       "name": "jekyll",
-      "runtimeExecutable": "docker",
+      "runtimeExecutable": "bash",
       "runtimeArgs": [
-        "run", "--rm",
-        "-v", "C:\\Users\\stanc\\github\\djnotes:/srv/jekyll",
-        "-p", "4000:4000",
-        "jekyll/jekyll:stable",
-        "sh", "-c", "gem install webrick --no-document && jekyll serve --host 0.0.0.0 --port 4000"
+        "-c",
+        "docker rm -f djnotes-jekyll >/dev/null 2>&1; exec docker run --rm --name djnotes-jekyll --init -v /mnt/c/Users/stanc/github/djnotes:/srv/jekyll -p 4000:4000 jekyll/jekyll:stable sh -c 'gem install webrick --no-document && jekyll serve --host 0.0.0.0 --port 4000'"
       ],
       "port": 4000
     }

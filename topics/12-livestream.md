@@ -11,7 +11,9 @@ slug: 12-livestream
 
 ## 麦克风基础
 
-前面板 Mic 输入 + Mic Level 旋钮。先调好电平：正常说话音量下表针健康、喊话不爆红。
+麦克风插背板 MIC 口（1/4" TS 非平衡口），有**两个**音量控制要分清：背板的 **MIC ATT.**（衰减，按你的麦克风灵敏度一次性设好）和顶面板的 **MIC LEVEL**（演出中随手调）。先用 ATT. 定基准、再用 LEVEL 微调——正常说话表针健康、喊话不爆红（手册 P.35、P.38-42 有完整说明）。
+
+{% include figure.html src="rear-panel.png" alt="DDJ-FLX4 背板：MIC 输入与衰减旋钮" page="34" caption="背板右侧：5 = MIC 输入（1/4 英寸 TS），6 = MIC ATT. 衰减旋钮" %}
 
 ## 两种麦克风模式
 

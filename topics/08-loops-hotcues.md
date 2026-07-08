@@ -21,6 +21,8 @@ slug: 08-loops-hotcues
 
 开启后做 loop/跳 cue/搓盘时，歌曲在"背后"按原节奏继续走；松手后无缝回到"本来该在的位置"。花式操作不打乱歌曲进度的保险绳。
 
+Pad 六种模式（Hot Cue / Pad FX / Beat Jump / Beat Loop / Sampler / Key Shift）的完整按键说明在[手册]({{ '/assets/pioneer-dj-ddj-flx4-user-manual.pdf' | relative_url }}) P.56-65，SHIFT 组合的隐藏功能都在里面。
+
 <div class="protip" markdown="1">
 
 - **备歌做 cue 是 80% 的功力，现场只是执行。** 职业 DJ 的每首歌上场前都打好了统一规则的 cue 点。定一套自己的颜色/位置规范并且永不改变，比如：**Pad 1=混入点、Pad 2=bass 进、Pad 3=drop、Pad 4=混出点**。规则统一后，任何一首歌拿上来，你闭着眼都知道 Pad 3 是 drop。

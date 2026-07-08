@@ -17,6 +17,10 @@ slug: 01-setup
 
 ## 操作步骤
 
+先看官方接线全景——电脑、音箱、麦克风各走哪个口：
+
+{% include figure.html src="connections.png" alt="DDJ-FLX4 接线示意：电脑接 USB，音箱接 Master RCA，麦克风接 MIC 口" page="39" caption="接线全景：(1) 电脑走 USB-C，(2) 有源音箱走 MASTER RCA，(3) 麦克风走 MIC 口" %}
+
 1. **接线**：USB 连接电脑，FLX4 免驱动，插上即被系统识别为一张独立声卡。
 2. **打开 rekordbox**，进入 Performance 模式。
 3. **Preferences → Audio**，确认 Audio Device 选的是 DDJ-FLX4，不是电脑自带声卡。
@@ -24,6 +28,8 @@ slug: 01-setup
 5. **导入曲库**：File → Import，或直接把歌曲文件拖进 rekordbox。首次使用把曲库全部跑一遍 **Analyze**，BPM、Key、Beat Grid 都靠这一步算出来，后面每一课都依赖它。
 6. **走线**：家用练习可以只用耳机+电脑喇叭；外接音箱走 Master Out（RCA）。
 7. **通电检查**：Deck 1 装一首歌，按 PLAY，打开耳机 CUE 监听，确认声音正常。
+
+{% include figure.html src="rear-panel.png" alt="DDJ-FLX4 背板接口图" page="34" caption="背板全部接口：1 供电 USB · 2 设备 USB · 3 Android 单声道开关 · 4 MASTER 输出 · 5 MIC 输入 · 6 MIC 衰减 · 7 防盗锁孔" %}
 
 ## 常见坑
 
