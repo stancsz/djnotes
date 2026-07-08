@@ -303,6 +303,24 @@ main {
   line-height: 1.4;
 }
 
+/* career track cards get the amber accent instead of magenta */
+.lesson-grid-career {
+  padding-top: 0;
+}
+
+.section-label-career {
+  color: var(--amber);
+  border-bottom-color: rgba(255, 176, 32, 0.25);
+}
+
+.lesson-card-career::before {
+  background: var(--amber);
+}
+
+.lesson-card-career:hover .lesson-num {
+  color: var(--amber);
+}
+
 .resource-cta {
   max-width: var(--container);
   margin: 0 auto;

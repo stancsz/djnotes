@@ -25,11 +25,25 @@ layout: default
   {{ content }}
 </section>
 
+{% assign tech = site.data.lessons | where: "track", "tech" %}
+{% assign career = site.data.lessons | where: "track", "career" %}
 <section class="lesson-grid">
-  <h2 class="section-label">{{ site.data.lessons | size }} 课全部课程</h2>
+  <h2 class="section-label">技术篇 · {{ tech | size }} 课 — 手上功夫</h2>
   <div class="grid">
-    {% for lesson in site.data.lessons %}
+    {% for lesson in tech %}
     <a class="lesson-card" href="{{ '/topics/' | append: lesson.slug | append: '/' | relative_url }}">
+      <span class="lesson-num">{{ lesson.number | prepend: "0" | slice: -2, 2 }}</span>
+      <span class="lesson-title">{{ lesson.title }}</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="lesson-grid lesson-grid-career">
+  <h2 class="section-label section-label-career">职业篇 · {{ career | size }} 课 — 十年老师傅才教得了的部分</h2>
+  <div class="grid">
+    {% for lesson in career %}
+    <a class="lesson-card lesson-card-career" href="{{ '/topics/' | append: lesson.slug | append: '/' | relative_url }}">
       <span class="lesson-num">{{ lesson.number | prepend: "0" | slice: -2, 2 }}</span>
       <span class="lesson-title">{{ lesson.title }}</span>
     </a>
