@@ -1,5 +1,7 @@
 # DJ Notes: DDJ-FLX4 从开箱到能上场
 
+[未发表研究草稿 PDF](paper/main.pdf) · [LaTeX 源稿](paper/main.tex) · [产品与研究原则](#产品与研究原则)
+
 [打开课程网站](https://stancsz.github.io/djnotes/) · [从第一课开始](https://stancsz.github.io/djnotes/topics/01-setup/) · [查看视频资源清单](https://stancsz.github.io/djnotes/notes/ddj-flx4-playlist/)
 
 一套给中文初学者的 DDJ-FLX4 实战课程。它不只解释按钮是什么，也把学习路线连起来：装好 rekordbox、用耳朵对拍、做干净的过渡、准备一场 set，再到第一次接演出和经营自己。
@@ -71,3 +73,14 @@ bash scripts/preview-jekyll.sh
 - 课程中的职业建议来自经验整理，不保证获得演出、收入或任何特定结果。
 
 如果这条学习路线帮你少走弯路，欢迎给仓库点一个 Star，方便日后回来继续练习。
+
+## 产品与研究原则
+
+这套课程以 DDJ-FLX4 和 rekordbox 为具体练习环境，提供从设备设置、听觉训练、混音过渡到 set 准备和初次演出的中文学习路径。
+
+- **学习者先行：** 每课说明练什么、听什么，以及如何判断练习是否完成。
+- **迁移能力：** 设备操作是例子；对拍、乐句、选曲、set 准备与读场更具迁移性。
+- **来源透明：** 设备专属行为以官方资料核对；课程建议不保证职业结果。
+- **研究诚实：** 目前这是公开课程设计，没有学习者对照研究或长期技能数据。
+
+[Unpublished research draft (PDF)](paper/main.pdf) · [LaTeX source](paper/main.tex). Not submitted to arXiv; no identifier is claimed.
