@@ -1,6 +1,6 @@
 # DJ Notes: DDJ-FLX4 从开箱到能上场
 
-[未发表研究草稿 PDF](paper/main.pdf) · [LaTeX 源稿](paper/main.tex) · [产品与研究原则](#产品与研究原则)
+[产品与研究原则](#产品与研究原则)
 
 [打开课程网站](https://stancsz.github.io/djnotes/) · [从第一课开始](https://stancsz.github.io/djnotes/topics/01-setup/) · [查看视频资源清单](https://stancsz.github.io/djnotes/notes/ddj-flx4-playlist/)
 
@@ -82,5 +82,3 @@ bash scripts/preview-jekyll.sh
 - **迁移能力：** 设备操作是例子；对拍、乐句、选曲、set 准备与读场更具迁移性。
 - **来源透明：** 设备专属行为以官方资料核对；课程建议不保证职业结果。
 - **研究诚实：** 目前这是公开课程设计，没有学习者对照研究或长期技能数据。
-
-[Unpublished research draft (PDF)](paper/main.pdf) · [LaTeX source](paper/main.tex). Not submitted to arXiv; no identifier is claimed.
